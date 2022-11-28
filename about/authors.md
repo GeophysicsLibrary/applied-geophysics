@@ -1,5 +1,5 @@
 # About the authors
 
-Add your name:
+Add your name: Gelson Ferreira
 
 * Leonardo Uieda
