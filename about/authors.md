@@ -5,6 +5,7 @@
 * Gelson Ferreira
 * Amy Gilligan
 * Maximilian Lowe
+* Aline Melo
 * Michal Motylinski
 * Pablo Rodriguez
 * Leonardo Uieda
