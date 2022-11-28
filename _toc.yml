@@ -17,6 +17,7 @@ parts:
   - caption: Seismology
     chapters:
       - file: seismology/intro
+      - file: seismology/seismic_waves
   - caption: Case studies
     chapters:
       - file: casestudy/intro
