@@ -1,10 +1,12 @@
 # About the authors
 
-* Gelson Ferreira
-* Maximilian Lowe
-* Leonardo Uieda
 * Caitlin Chalk
-* Pablo Rodriguez
 * Benjamin Edwards
+* Gelson Ferreira
 * Amy Gilligan
+* Maximilian Lowe
 * Aline Melo
+* Michal Motylinski
+* Pablo Rodriguez
+* Leonardo Uieda
+* India Uppal
