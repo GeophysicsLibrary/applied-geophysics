@@ -2,6 +2,8 @@
 
 Add your name: 
 
-* Leonardo Uieda
 * Gelson Ferreira
+* Maximilian Lowe
+* Leonardo Uieda
+* Caitlin Chalk
 * Benjamin Edwards
