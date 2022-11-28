@@ -1,7 +1,8 @@
 # About the authors
 
-Add your name:
-
-Amy Gilligan
-
-
+* Gelson Ferreira
+* Maximilian Lowe
+* Leonardo Uieda
+* Caitlin Chalk
+* Benjamin Edwards
+* Amy Gilligan
