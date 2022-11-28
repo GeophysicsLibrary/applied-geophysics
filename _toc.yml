@@ -6,7 +6,7 @@ root: intro
 parts:
   - caption: Getting started
     chapters:
-      - file: markdown
+      - file: using
   - caption: EM
     chapters:
       - file: electromagnetic/intro
