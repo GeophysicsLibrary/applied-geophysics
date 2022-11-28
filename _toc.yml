@@ -13,9 +13,15 @@ parts:
   - caption: Potential Fields
     chapters:
       - file: potentialfields/intro
+      - file: potentialfields/intro-gravity
   - caption: Seismology
     chapters:
       - file: seismology/intro
   - caption: Case studies
     chapters:
       - file: casestudy/intro
+  - caption: About
+    chapters:
+      - file: about/index
+      - file: about/authors
+
