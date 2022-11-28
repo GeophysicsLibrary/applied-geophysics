@@ -2,5 +2,6 @@
 
 Add your name: 
 
-* Leonardo Uieda
 * Gelson Ferreira
+* Maximilian Lowe
+* Leonardo Uieda
