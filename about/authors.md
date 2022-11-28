@@ -7,3 +7,4 @@
 * Pablo Rodriguez
 * Benjamin Edwards
 * Amy Gilligan
+* Aline Melo
