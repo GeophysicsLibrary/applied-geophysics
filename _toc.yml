@@ -3,7 +3,19 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+  - caption: Getting started
+    chapters:
+      - file: markdown
+  - caption: EM
+    chapters:
+      - file: electromagnetic/intro
+  - caption: Potential Fields
+    chapters:
+      - file: potentialfields/intro
+  - caption: Seismology
+    chapters:
+      - file: seismology/intro
+  - caption: Case studies
+    chapters:
+      - file: casestudy/intro
